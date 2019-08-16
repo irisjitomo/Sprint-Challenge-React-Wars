@@ -24,7 +24,7 @@ const Attributes = styled.div`
 const StarWarsChild = (props) => {
 	return (
 		<Div>
-			<Name>
+			<Name> 
 				<h1>{props.name}</h1>
 			</Name>
 			<Attributes className="Attributes">
